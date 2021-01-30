@@ -1,3 +1,7 @@
+This is the website my team made for our Human-Computer Interaction project < http://web.stanford.edu/class/cs147/projects/DigitalDemocracy/Envio/ >. We used a template from HTML5 UP to speed up the process. The credits are provided below.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 Spectral by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)

@@ -1,4 +1,6 @@
-This is the website my team made for our Human-Computer Interaction project < http://web.stanford.edu/class/cs147/projects/DigitalDemocracy/Envio/ >. We used a template from HTML5 UP to speed up the process. The credits are provided below.
+This is the website my team made for our Human-Computer Interaction project. <br/>
+< http://web.stanford.edu/class/cs147/projects/DigitalDemocracy/Envio/ > <br/>
+We used a template from HTML5 UP to speed up the process. The credits are provided below.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
